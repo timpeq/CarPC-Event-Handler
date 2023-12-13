@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+  <Properties key="CSharpFormatting">
+    <SerializedObject key="NamespaceBraceStyle">
+      <BraceStyle xmlns="clr-namespace:ICSharpCode.NRefactory.CSharp;assembly=ICSharpCode.NRefactory.CSharp">EndOfLine</BraceStyle>
+    </SerializedObject>
+    <SerializedObject key="MethodBraceStyle">
+      <BraceStyle xmlns="clr-namespace:ICSharpCode.NRefactory.CSharp;assembly=ICSharpCode.NRefactory.CSharp">EndOfLine</BraceStyle>
+    </SerializedObject>
+    <SerializedObject key="EnumBraceStyle">
+      <BraceStyle xmlns="clr-namespace:ICSharpCode.NRefactory.CSharp;assembly=ICSharpCode.NRefactory.CSharp">EndOfLine</BraceStyle>
+    </SerializedObject>
+    <SerializedObject key="EventBraceStyle">
+      <BraceStyle xmlns="clr-namespace:ICSharpCode.NRefactory.CSharp;assembly=ICSharpCode.NRefactory.CSharp">EndOfLine</BraceStyle>
+    </SerializedObject>
+    <SerializedObject key="ClassBraceStyle">
+      <BraceStyle xmlns="clr-namespace:ICSharpCode.NRefactory.CSharp;assembly=ICSharpCode.NRefactory.CSharp">EndOfLine</BraceStyle>
+    </SerializedObject>
+    <SerializedObject key="InterfaceBraceStyle">
+      <BraceStyle xmlns="clr-namespace:ICSharpCode.NRefactory.CSharp;assembly=ICSharpCode.NRefactory.CSharp">EndOfLine</BraceStyle>
+    </SerializedObject>
+    <SerializedObject key="StructBraceStyle">
+      <BraceStyle xmlns="clr-namespace:ICSharpCode.NRefactory.CSharp;assembly=ICSharpCode.NRefactory.CSharp">EndOfLine</BraceStyle>
+    </SerializedObject>
+  </Properties>
+</Properties>
