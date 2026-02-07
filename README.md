@@ -18,3 +18,7 @@ re-applied.
 
 To keep the battery in the tablet from draining completely overnight (Connected standby drains a lot more power than old-style standby)
 I have Windows set to hibernate the computer at 80.
+
+I created this with Sharp Develop around 2014 or 2015, but I haven't trid to build it since.
+
+[Binary is available here](https://github.com/timpeq/CarPC-Event-Handler/releases/tag/v0.1.0-Preview)
